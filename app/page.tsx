@@ -5,7 +5,7 @@ export default function Home() {
       <h1 className="text-4xl w-full bg-blue-700 p-3 flex justify-center">
         Template
       </h1>
-      Hello World
+      Dark Theme Example
       <DarkModeButton />
     </>
   );
